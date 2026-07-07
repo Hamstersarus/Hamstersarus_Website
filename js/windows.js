@@ -167,7 +167,7 @@ const APPS = {
             '<p class="app-about-tag">student developer · she/her</p>' +
           "</div>" +
         "</div>" +
-        '<p class="app-about-bio">10th grader at Langley High School taking AP ' +
+        '<p class="app-about-bio">11th grader at Langley High School taking AP ' +
         "Computer Science A. i love building things. from spacecraft sensor " +
         "drivers to little operating systems like this one.</p>" +
         '<div class="app-about-cols">' +
@@ -235,7 +235,7 @@ const APPS = {
     content:
       '<div class="app-resume">' +
         "<section><h3>education</h3>" +
-          "<p>Langley High School - 10th grade.<br>" +
+          "<p>Langley High School - 11th grade.<br>" +
           "AP Computer Science A (2025–26): Java, OOP, data structures, algorithms.</p></section>" +
         "<section><h3>experience</h3>" +
           "<p><b>Software Engineering Intern</b> - New Ascent (May–Aug 2025)<br>" +
@@ -249,6 +249,8 @@ const APPS = {
           "<li>Russian - advanced (reading, writing, speaking)</li>" +
           "<li>🥇 Gold, Russian Olympiad - George Mason, 2025</li>" +
           "<li>🥈 Silver, Russian Essay Contest - Langley, 2024</li>" +
+          "<li>🥇 Gold, Russian Olympiad - George Mason, 2026</li>" +
+          "<li>🥈 Second Place student STEM - Inspire Her Future, 2026</li>" +
         "</ul></section>" +
       "</div>",
   },
